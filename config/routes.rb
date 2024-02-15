@@ -4,6 +4,6 @@ Rails.application.routes.draw do
   # get 'home/home'
   # get 'home/history'
 
-  
-  root "home#home"
+
+  root "home#index"
 end
